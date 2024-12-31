@@ -10,3 +10,13 @@ If animal has no energy, it dies.
 - Animal reproduction
 - Animal evolution
 - Grass reproduction
+
+## Screenshots
+
+![Screenshot](images/Screenshot%20from%202024-12-30%2022-26-16.png)
+
+Setting animal population and amount of food.
+
+![Screenshot](images/Screenshot%20from%202024-12-30%2022-26-42.png)
+
+Simulation in progress.
